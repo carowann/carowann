@@ -52,6 +52,6 @@ My statistical background provides me with strong analytical thinking and proble
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [Your LinkedIn Profile]
+- **LinkedIn:** [Caroline Wannheden](https://www.linkedin.com/in/caroline-wannheden)
 - **42 Campus:** Firenze
 - **University:** Statistics (Final Year) @ UniFi
