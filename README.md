@@ -5,9 +5,7 @@ Transitioning from statistics to a full career in software development
 
 ## 🎯 About Me
 
-I'm a Computer Science enthusiast currently studying at 42 Firenze, in my final year of a Statistics degree at the University of Florence. What started as a complementary skill has become my true calling, I've decided to pursue a full career in software development instead of continuing with a master's in statistics.
-
-My statistical background provides me with strong analytical thinking and problem-solving skills that I apply to programming challenges. I'm particularly drawn to the elegance of well-structured code and the satisfaction of building efficient, robust systems.
+I'm a Computer Science enthusiast currently studying at 42 Firenze, in my final year of a Statistics degree at the University of Florence. What started as a complementary skill has become my true calling, I've decided to pursue a full career in software development.
 
 ## 🛠️ Technical Skills
 
