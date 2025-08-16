@@ -19,11 +19,8 @@ Transitioning from statistics to a full career in software development
 
 ## 🏫 42 School Journey
 
-<div align="center">
-
 [![cwannhed's 42 stats](https://badge.mediaplus.ma/colorfulwaves/cwannhed?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-</div>
 
 | Project | Status | Description |
 |---------|---------|-------------|
@@ -38,11 +35,8 @@ Transitioning from statistics to a full career in software development
 
 ## 📈 GitHub Stats
 
-<div align="center">
-
 ![Caroline's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carowann&show_icons=true&theme=radical)
 
-</div>
 
 ## 📫 Let's Connect
 
