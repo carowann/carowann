@@ -3,10 +3,6 @@
 💻 **42 Firenze Student** | Final Year Statistics Student at University of Florence  
 Transitioning from statistics to a full career in software development
 
-## 🎯 About Me
-
-I'm a Computer Science enthusiast currently studying at 42 Firenze, in my final year of a Statistics degree at the University of Florence. What started as a complementary skill has become my true calling, I've decided to pursue a full career in software development.
-
 ## 🛠️ Technical Skills
 
 ### Programming Languages
@@ -21,9 +17,6 @@ I'm a Computer Science enthusiast currently studying at 42 Firenze, in my final 
 
 *Currently mastering Linux and Unix systems through hands-on experience at 42*
 
-### Areas of Interest
-- **System Programming** • **Data Structures & Algorithms** • **Software Architecture** • **Problem Solving**
-
 ## 🏫 42 School Journey
 
 | Project | Status | Description |
@@ -37,12 +30,6 @@ I'm a Computer Science enthusiast currently studying at 42 Firenze, in my final 
 | **Philosophers** | In Progress | Threading and synchronization with mutexes |
 | **Minishell** | In Progress | Unix shell implementation with parsing and execution |
 
-## 🚀 Current Focus
-
-- Completing my final year in Statistics while advancing through 42 projects
-- Mastering low-level programming and Unix system concepts  
-- Building clean, efficient code architecture
-- Preparing for a full transition into software development career
 
 ## 📈 GitHub Stats
 
