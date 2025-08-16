@@ -19,21 +19,30 @@ Transitioning from statistics to a full career in software development
 
 ## 🏫 42 School Journey
 
+<div align="center">
+
+[![cwannhed's 42 stats](https://badge.mediaplus.ma/colorfulwaves/cwannhed?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
+</div>
+
 | Project | Status | Description |
 |---------|---------|-------------|
-| **Libft** | Completed | Custom C library implementation |
-| **Get Next Line** | Completed | File reading function with static variables |
-| **ft_printf** | Completed | Recreation of the printf function |
-| **Born2beroot** | Completed | System administration and virtualization |
-| **Pipex** | Completed | Unix pipe mechanism recreation |
-| **So_long** | Completed | 2D game using MiniLibX graphics library |
-| **Philosophers** | In Progress | Threading and synchronization with mutexes |
-| **Minishell** | In Progress | Unix shell implementation with parsing and execution |
-
+| **Libft** | ✅ Completed | Custom C library implementation |
+| **Get Next Line** | ✅ Completed | File reading function with static variables |
+| **ft_printf** | ✅ Completed | Recreation of the printf function |
+| **Born2beroot** | ✅ Completed | System administration and virtualization |
+| **Pipex** | ✅ Completed | Unix pipe mechanism recreation |
+| **So_long** | ✅ Completed | 2D game using MiniLibX graphics library |
+| **Philosophers** | 🚧 In Progress | Threading and synchronization with mutexes |
+| **Minishell** | 🚧 In Progress | Unix shell implementation with parsing and execution |
 
 ## 📈 GitHub Stats
 
+<div align="center">
+
 ![Caroline's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carowann&show_icons=true&theme=radical)
+
+</div>
 
 ## 📫 Let's Connect
 
