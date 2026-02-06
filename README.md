@@ -7,6 +7,7 @@ Transitioning from statistics to a full career in software development
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
@@ -15,12 +16,11 @@ Transitioning from statistics to a full career in software development
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vim](https://img.shields.io/badge/VIM-019733?style=for-the-badge&logo=vim&logoColor=white)
 
-*Currently mastering Linux and Unix systems through hands-on experience at 42*
+*Currently mastering Linux, Unix systems and object-oriented programming through hands-on experience at 42*
 
 ## 🏫 42 School Journey
 
 [![cwannhed's 42 stats](https://badge.mediaplus.ma/colorfulwaves/cwannhed?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
 
 | Project | Status | Description |
 |---------|---------|-------------|
@@ -30,8 +30,10 @@ Transitioning from statistics to a full career in software development
 | **Born2beroot** | ✅ Completed | System administration and virtualization |
 | **Pipex** | ✅ Completed | Unix pipe mechanism recreation |
 | **So_long** | ✅ Completed | 2D game using MiniLibX graphics library |
-| **Philosophers** | 🚧 In Progress | Threading and synchronization with mutexes |
-| **Minishell** | 🚧 In Progress | Unix shell implementation with parsing and execution |
+| **Philosophers** | ✅ Completed | Threading and synchronization with mutexes |
+| **Minishell** | ✅ Completed | Unix shell implementation with parsing and execution |
+| **Cub3D** | 🚧 In Progress | 3D game engine inspired by Wolfenstein 3D |
+| **C++ Modules** | 🚧 In Progress | Object-oriented programming and C++ fundamentals |
 
 ## 📈 GitHub Stats
 
