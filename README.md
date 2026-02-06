@@ -35,15 +35,6 @@ Transitioning from statistics to a full career in software development
 | **Cub3D** | 🚧 In Progress | 3D game engine inspired by Wolfenstein 3D |
 | **C++ Modules** | 🚧 In Progress | Object-oriented programming and C++ fundamentals |
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Caroline's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carowann&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carowann&layout=compact&theme=default&hide_border=true&langs_count=6)
-
-</div>
 
 ## 📫 Let's Connect
 
